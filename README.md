@@ -7,6 +7,8 @@
 ## Development server
 
 Run `nx serve wine-table-web` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run `nx serve wine-table-api` for a express server. Navigate to http://localhost:3000/. The app will automatically reload if you change any of the source files.
+Run `npm run calc -- <first value> <second value>` for the php calculator.
 
 ## Understand this workspace
 
